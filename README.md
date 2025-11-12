@@ -18,7 +18,7 @@ El modelo busca **optimizar simultáneamente** dos objetivos principales:
 
 El resultado es un **conjunto de soluciones no dominadas** (frontera de Pareto) que representan distintos compromisos entre **costo** e **interés**, permitiendo explorar diferentes alternativas de planificación.
 
----
+
 
 ## Metodología
 
@@ -31,7 +31,7 @@ La evolución del sistema se basa en operadores genéticos clásicos:
 
 Se utiliza un enfoque de **optimización multiobjetivo basado en dominancia**, similar a **NSGA-II**, para mantener una población de soluciones no dominadas a lo largo de las generaciones.
 
----
+
 
 ## Características principales
 
@@ -41,7 +41,7 @@ Se utiliza un enfoque de **optimización multiobjetivo basado en dominancia**, s
 - Resultados interpretables mediante la **frontera de Pareto**.  
 - Implementación completa en **Java**, sin dependencia de frameworks externos.
 
----
+
 
 ## 💻 Implementación
 
@@ -51,14 +51,14 @@ El proyecto está desarrollado íntegramente en **Java**, aplicando conceptos de
 - Representación de soluciones y funciones de evaluación  
 - Comparación y ordenamiento de individuos mediante dominancia de Pareto  
 
----
+
 
 ## Contexto académico
 
 Proyecto realizado como parte de la materia **Algoritmos Evolutivos** dentro de la carrera de **Ingeniería en Computación**.  
 El objetivo fue aplicar técnicas de **optimización evolutiva multiobjetivo** a un problema real, combinando modelado, programación y análisis de resultados.
 
----
+
 
 ## Resultados esperados
 
