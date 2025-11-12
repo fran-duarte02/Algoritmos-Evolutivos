@@ -4,7 +4,6 @@ Este proyecto implementa un **algoritmo evolutivo multiobjetivo** para seleccion
 
 Fue desarrollado como parte de un **proyecto académico en la Facultad de Ingeniería**, en el marco del curso de **Algoritmos Evolutivos**.
 
----
 
 ## Objetivos del algoritmo
 
