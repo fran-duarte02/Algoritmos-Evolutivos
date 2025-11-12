@@ -42,7 +42,7 @@ Se utiliza un enfoque de **optimización multiobjetivo basado en dominancia**, s
 
 
 
-## 💻 Implementación
+## Implementación
 
 El proyecto está desarrollado íntegramente en **Java**, aplicando conceptos de:
 - Programación orientada a objetos  
